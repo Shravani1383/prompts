@@ -1,0 +1,34 @@
+[10/09, 18:44] Shravani Jagtap: Hi, I’m Shravani, a Software Engineer working with the HSBC Productivity Suite.
+
+Today, I’m going to introduce a simple but meaningful use case — generating appreciation notes for our colleagues.
+
+In our day-to-day work, we often notice when someone goes the extra mile, takes ownership of a task, delivers something ahead of time, or makes a real impact on the team. But sometimes, we don’t have the time or the right words to express that appreciation.
+
+So, we’ve created a task where a user can simply provide some context about what their colleague has done, and the system will turn that input into a personalized, professional, and thoughtful appreciation note.
+
+Let’s test it out.
+
+For example, I’ll provide this prompt:
+
+"My colleague Rahul took ownership of a critical production issue and worked late to identify the root cause. He coordinated with multiple teams and successfully resolved the issue without impacting our customers."
+
+Based on this input, the task generates an appreciation note recognizing Rahul’s ownership, dedication, and impact.
+
+This makes it easier to recognize great work and build a culture where appreciation becomes a regular part of how we work together.
+[10/09, 18:47] Shravani Jagtap: Hi, I’m Shravani, a Software Engineer working with the HSBC Productivity Suite.
+
+Today, I’m going to introduce another useful task — generating tough questions that an audience might ask, along with suggested answers.
+
+When we’re preparing for a presentation, a project review, or a leadership discussion, it’s easy to prepare for the questions we expect. But the challenging questions are often the ones we don’t anticipate.
+
+So, we’ve created a task where a user can provide some context about their project, presentation, or topic, and the system identifies the 10 most challenging questions the audience might ask, along with clear and relevant suggested answers.
+
+Let’s test it out.
+
+For example, I’ll provide this prompt:
+
+"We are presenting an AI-powered tool that automatically generates test cases by understanding dependencies between different software services. The goal is to improve test coverage and identify potential impacts of code changes."
+
+Based on this input, the task generates 10 tough questions — such as questions around accuracy, reliability, false positives, security, scalability, and how the solution compares with existing approaches — along with suggested answers.
+
+This helps us prepare not just for the presentation, but also for the difficult questions that can come up during the discussion.
